@@ -1,11 +1,11 @@
-# HIGH COURT RULES OF CRIMINAL PROCEDURE
+# SUPREME COURT RULES OF CRIMINAL PROCEDURE
 
 ---
 
 ## 1. Criminal Information
 
 ### Rule 1.1 — Commencement of Proceedings
-A **Criminal Information** is the originating pleading by which a criminal proceeding is commenced in the High Court. It shall be the first pleading filed by **Crown Counsel** in every criminal action.
+A **Criminal Information** is the originating pleading by which a criminal proceeding is commenced in the Supreme Court. It shall be the first pleading filed by **Crown Counsel** in every criminal action.
 
 ### Rule 1.2 — Contents of a Criminal Information
 A Criminal Information shall contain:
