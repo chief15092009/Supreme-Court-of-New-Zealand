@@ -1,11 +1,11 @@
-# HIGH COURT RULES OF CIVIL PROCEDURE
+# SUPREME COURT RULES OF CIVIL PROCEDURE
 
 ---
 
 ## 1. Originating Proceedings and Statements of Defence
 
 ### Rule 1.1 — Originating Document
-A **Notice of Claim** is the originating pleading by which a civil proceeding is commenced in the High Court.
+A **Notice of Claim** is the originating pleading by which a civil proceeding is commenced in the Supreme Court.
 
 ### Rule 1.2 — Contents of a Notice of Claim
 A Notice of Claim shall contain:
@@ -119,7 +119,7 @@ Supplementary discovery shall be completed within **48 hours** of direction.
 ## 5. Jurisdictional Classification of Cases
 
 ### Rule 5.1 — Civil Proceedings
-All claims within the High Court’s jurisdiction shall be treated as civil proceedings.
+All claims within the Supreme Court’s jurisdiction shall be treated as civil proceedings.
 
 ### Rule 5.2 — Declaratory and Injunctive Relief
 Applications for declaratory or injunctive relief fall within the civil jurisdiction of the Court.
@@ -237,7 +237,7 @@ Expungement applications are governed exclusively by this Part.
 No tort claims may be advanced in expungement proceedings.
 
 ### Rule 13.3–13.10
-The remaining provisions of this Part apply **mutatis mutandis** to proceedings before the High Court.
+The remaining provisions of this Part apply **mutatis mutandis** to proceedings before the Supreme Court.
 
 ---
 
